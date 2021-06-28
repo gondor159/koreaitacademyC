@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define COUNT	150
+
+int main(int argc, char *argv[]){
+	int n, x, sum, avg;
+	int i;
+	int rand_num[150];
+
+	x = atoi(argv>>> 
+}
